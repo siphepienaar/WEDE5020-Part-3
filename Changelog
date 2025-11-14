@@ -1,1 +1,175 @@
+# 📌 Project Overview
 
+The Aespa Fanstore website consists of **6 webpages**:
+1. Home (index.html)**
+- Introduction to Aespa Fanstore  
+- Featured image  
+- Easy navigation  
+- Footer with social links  
+
+2. About (about.html)**
+- Overview of the fanstore concept  
+- FAQ section with **JavaScript accordion**  
+- Clean layout and responsive typography  
+
+3. Products (products.html)**
+- Merchandise list  
+- **Search filter (JS)**  
+- **Lightbox image gallery** (JS)  
+
+4. Events (events.html)**
+- Full list of **Aespa SYNK : aeXIS LINE Tour (2025–2026)**  
+- Aespa’s **confirmed 2025 MAMA Awards performance**  
+- Clean card layout  
+
+5. Enquiry (enquiry.html)**
+- Enquiry form for product or event questions  
+- **Client-side form validation**  
+- **Success fade-in animation**  
+- **AJAX-style simulated submission**  
+
+6. Contact (contact.html)**
+- General message contact form  
+- **Full validation + error handling**  
+- **AJAX fake submission**  
+- Embedded Google Map  
+- Local SEO section  
+
+Responsive Design
+
+The project is fully responsive using:
+- CSS Flexbox  
+- CSS Grid  
+- Media queries  
+- Mobile-first approach  
+- Scalable typography  
+- Responsive images  
+
+Tested on:
+- Desktop  
+- Tablet  
+- Mobile  
+- Chrome Developer Tools  
+
+JavaScript Features (Interactive Elements)
+
+ Form Validation
+- Checks input length  
+- Email format validation  
+- Required field checks  
+- Red error messages for invalid fields  
+- Success animation  
+
+AJAX-Style Submission
+- Prevents page reload  
+- Simulates a server request  
+- Displays a success message  
+
+ Interactive Components
+- FAQ accordion  
+- Lightbox product gallery  
+- Product search filter  
+- Scroll-to-top button  
+- DOM manipulation animations  
+
+ Map Integration
+- Google Maps iframe added to contact page  
+
+---
+
+ SEO Implementation
+
+ On-Page SEO
+- Meta descriptions  
+- Meta keywords  
+- Clean heading structure (H1, H2, H3)  
+- Alt text on all images  
+- Optimised filenames  
+- Internal linking  
+- Mobile-friendly layout  
+
+ Off-Page SEO
+- Footer links to Aespa’s official SNS  
+- Local SEO (location section)  
+
+ Additional Requirements
+- `robots.txt`  
+- `sitemap.xml`  
+- Compressed images  
+- Optimised page speed  
+- Safe, validated inputs  
+
+# 🔒 Security Measures
+
+- Required fields enforced  
+- JavaScript validation  
+- Input length checks  
+- Email format checks  
+- Prevents blank or malformed submissions  
+
+Testing Checklist
+
+The site was tested across:
+- Chrome  
+- Safari  
+- Edge  
+- Mobile emulation  
+
+Tests performed:
+- All links working  
+
+- Lightbox opens and closes
+
+- FAQ accordion toggles correctly  
+
+- Search filter filters live results  
+
+- Scroll-to-top button appears on scroll 
+
+- Forms show error messages  
+
+- Forms show success messages 
+
+- Responsive layout for all screen sizes  
+
+Screenshots included in the repository.
+
+# 📦 Deployment (GitHub Pages)
+
+**How to run the site live:**
+
+1. Upload repository to GitHub
+
+2. Go to **Settings > Pages** 
+
+3. Select branch: `main` 
+
+4. Select folder: `/root`  
+
+5. Save  
+
+6. Wait 1–2 minutes for deployment  
+
+# 🤝 Credits & References
+
+Images:
+- Fan-made / educational mockups (legal for student use)
+
+Tour Dates:
+- SM Entertainment  
+- AllKpop  
+- NamasteHallyu  
+- KpopNewswire  
+- LiveNation HK  
+- Galaxy Macau  
+
+Awards:
+- 2025 MAMA Awards performer information — Bandwagon Asia  
+
+Google Maps:
+- Google Maps Embed API  
+
+# Final Status
+Project complete**  
+
+All assignment requirements met**  
